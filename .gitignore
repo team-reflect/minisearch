@@ -8,3 +8,4 @@
 /benchmarks/dist
 /coverage
 yarn-error.log
+.npmrc
